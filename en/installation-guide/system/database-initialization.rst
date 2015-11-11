@@ -66,6 +66,6 @@ You can do this graphically or by simply opening a pgAdminIII :ref:`SQL query` w
 
   * Privileges
 
-    * Group `qgep`
+    * 'group qgep`
 
     * Choose `ALL`
